@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "965964199398",
+    "project_id": "uas-siidanu",
+    "storage_bucket": "uas-siidanu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965964199398:android:11432b1c792a4c58ef5227",
+        "android_client_info": {
+          "package_name": "com.example.uas_danu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965964199398-mm157431pgal20polcemppm069htjiqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGk_qTuKRg_xYE66SPCHVCAhhbDGD6sao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965964199398-mm157431pgal20polcemppm069htjiqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
